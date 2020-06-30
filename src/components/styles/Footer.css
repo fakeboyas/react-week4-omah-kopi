@@ -1,0 +1,29 @@
+.footer {
+    background-color: black;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    opacity: 0.7;
+    color: white;
+}
+
+.menu-footer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 30px;
+    width: 50%;
+    align-self: center;
+}
+
+.maps-footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 50px;
+    width: 50%;
+}
+
+.maps-footer h3 {
+    text-align: justify;
+}

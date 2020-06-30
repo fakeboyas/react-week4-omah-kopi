@@ -1,0 +1,11 @@
+.jumbotron {
+    height: 80vh;
+    background-size: cover;
+    align-items: center;
+    display: flex;
+    color: white;
+}
+
+.jumbotron .text {
+    margin-left: 40px;
+}
