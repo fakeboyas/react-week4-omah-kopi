@@ -14,18 +14,16 @@ export default class Footer extends Component {
                 </div>
                 <hr />
                 <div className="maps-footer">
-                    <div className="photos3">
-                        <h3>Find Us</h3>
+                    <h3>Find Us</h3>
+                    <br />
+                    <img src={FooterImage1} alt="Maps" srcset="" />
+                    <p>
+                        Jl. Kemang Raya No.10
                         <br />
-                        <img src={FooterImage1} alt="Maps" srcset="" />
-                        <p>
-                            Jl. Kemang Raya No.10
-                            <br />
-                            Jaksel- 17343
-                            <br />
-                            Indonesia
-                        </p>
-                    </div>
+                        Jaksel- 17343
+                        <br />
+                        Indonesia
+                    </p>
                 </div>
             </div>
         );

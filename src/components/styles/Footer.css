@@ -18,12 +18,19 @@
 
 .maps-footer {
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
-    margin-right: 50px;
     width: 50%;
 }
 
 .maps-footer h3 {
     text-align: justify;
+}
+
+@media only screen and (max-width: 500px) {
+    .footer {
+        flex-direction: column;
+        align-items: center;
+    }
 }

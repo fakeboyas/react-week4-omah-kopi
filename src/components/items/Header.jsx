@@ -12,10 +12,10 @@ export default class Header extends Component {
                     </div>
 
                     <div className="menu">
-                        <a href="/">Home</a>
-                        <a href="/">Profil</a>
-                        <a href="/">Shop</a>
-                        <a href="/">Hubungi Kami</a>
+                        <p>Home</p>
+                        <p>Profil</p>
+                        <p>Shop</p>
+                        <p>Hubungi Kami</p>
                     </div>
                 </nav>
             </>

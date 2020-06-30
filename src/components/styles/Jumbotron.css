@@ -9,3 +9,9 @@
 .jumbotron .text {
     margin-left: 40px;
 }
+
+@media only screen and (max-width: 500px) {
+    .jumbotron {
+        height: 60vh;
+    }
+}

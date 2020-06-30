@@ -12,8 +12,9 @@ export default class Jumbotron extends Component {
                 <div class="text">
                     <h1>Omah Kopi</h1>
                     <br />
-                    <p>authenthic indonesian coffee</p>
-                    <p>traditional and brew</p>
+                    <span>Authenthic indonesian coffee</span>
+                    <br />
+                    <span>Traditional and brew</span>
                 </div>
             </div>
         );
